@@ -9,5 +9,11 @@
   margin-top: 25px;
 }
 
+#app{
+  display: grid;
+  grid-template-columns: 225px 655px auto 225px;
+  grid-template-rows: 485px 450px 360px auto;
+}
+
 
 
