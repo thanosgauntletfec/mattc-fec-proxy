@@ -3,15 +3,15 @@
   margin-left: -225px !important;
 }
 
-.photo{
+/* .photo, .photo2{
   margin-left: 105px;
   width: 655px;
   margin-top: 25px;
-}
+} */
 
 #app{
   display: grid;
-  grid-template-columns: 225px 655px auto 225px !important;
+  grid-template-columns: auto 655px 310px auto !important;
   grid-template-rows: 485px 450px 360px auto;
 }
 
